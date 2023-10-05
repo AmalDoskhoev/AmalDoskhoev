@@ -12,7 +12,7 @@
 
 ---
 
-<img alt="JPG" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/logo.jpg">
+<img alt="JPG" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/intro.jpg">
 
 ---
 
