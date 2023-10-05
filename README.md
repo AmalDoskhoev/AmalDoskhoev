@@ -4,7 +4,7 @@
 
 ---
 
-### Обо мне
+### Обо мне:
 <div style="display: flex">
 <p>
 Я являюсь frontend-разработчиком, и мой путь в эту область начался спонтанно. Я сразу погрузился в коммерческую разработку, минуя формальное обучение. Это привело к тому, что иногда у меня возникают проблемы из-за незнания базовых терминов. Однако, я считаю, что это также имеет свои преимущества, так как мой учитель - <img src="https://www.vectorlogo.zone/logos/google/google-ar21.svg" width="70px">. Все мои навыки я приобрел через практику, и это создало некий дисбаланс, но я ни о чем не жалею.
@@ -25,7 +25,7 @@
 
 ---
 
-### 💻 Скиллы
+### 💻 Скиллы:
 <div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -43,7 +43,7 @@
 
 ---
 
-### ⚒ Инструменты  
+### ⚒ Инструменты: 
 <div align="left">  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a> 
@@ -53,11 +53,17 @@
 
 ---
 
-### 更 Доп. скиллы  
+### 更 Доп. скиллы:  
 <div align="left">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
 </div>
+
+---
+
+### GitHub статистика:  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AmalDoskhoev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmalDoskhoev&layout=compact" /></div>
 
 ---
 
