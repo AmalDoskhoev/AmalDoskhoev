@@ -1,5 +1,7 @@
 # <div align="left"> السلام عليكم ,Мир вам👋</div>
 
+<img alt="JPG" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/intro.jpg">
+
 ---
 
 ### Обо мне
@@ -12,9 +14,6 @@
 
 ---
 
-<img alt="JPG" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/intro.jpg">
-
----
 
 - 🏆 Участвовал в международном квесте-хакатон "Код мира"🚀  
   
