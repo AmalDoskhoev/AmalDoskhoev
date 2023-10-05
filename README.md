@@ -1,16 +1,20 @@
-### Hi there 👋
+# <div align="center">👋 السلام عليكم</div>  
+  
 
-<!--
-**AmalDoskhoev/AmalDoskhoev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <div align="center">Мир вам👋</div>  
+  
 
-Here are some ideas to get you started:
+# Frontend-разработчик   
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏆 Участвовал в международном квесте-хакатон "Код мира"🚀  
+  
+
+- 🏫 Преподавал программирование  
+  
+
+- 💻 Руководил IT-отделом  
+  
+
+- 🔥 Интересный факт: настраивал защищенную сеть в Роскомнадзоре.  
+  
