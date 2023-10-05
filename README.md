@@ -15,10 +15,11 @@
 <br>
 Все мои навыки я приобрел через практику, и это создало некий дисбаланс, но я ни о чем не жалею.
 <br>
+
 Постепенно, я уделяю внимание чтению различной литературы, чтобы быть в "тренде".
 <br>
 В свободное время я читаю мангу и борюсь с ленью, хотя, по очкам, она пока выигрывает. 
-<img hight="700" width="300" alt="JPG" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/logo.jpg">
+<img hight="300" width="100" alt="JPG" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/logo.jpg">
 </p>
 </div>
 
