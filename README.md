@@ -2,8 +2,11 @@
 
 ---
 
-### Frontend-разработчик   
+### Frontend-разработчик  
 
+<div align="center">
+<img hight="700" width="300" alt="Logo" align="center" src="https://github.com/AmalDoskhoev/AmalDoskhoev/blob/master/assets/logo.jpg">
+</div>
 ---
 
 - 🏆 Участвовал в международном квесте-хакатон "Код мира"🚀  
