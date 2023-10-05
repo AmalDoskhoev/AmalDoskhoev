@@ -54,3 +54,9 @@
 
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/AmalDoskhoev/badges/large)
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AmalDoskhoev&&style=flat-square" align="center" />
+</div>  
