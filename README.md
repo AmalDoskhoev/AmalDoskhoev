@@ -5,7 +5,7 @@
 ### Frontend-разработчик  
 
 <div align="center">
-<img hight="700" width="300" alt="JPG" align="center" src="https://github.com/AmalDoskhoev/assets/logo.jpg">
+<img hight="700" width="300" alt="JPG" align="center" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/logo.jpg">
 </div>
 
 ---
