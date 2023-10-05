@@ -1,4 +1,4 @@
-# <div align="left"> السلام عليكم, Мир вам👋</div>
+# <div align="left"> السلام عليكم ,Мир вам👋</div>
 
 ---
 
@@ -51,3 +51,6 @@
 </div>
 
 ---
+
+### 💻 Codewars:
+![codewars](https://www.codewars.com/users/AmalDoskhoev/badges/large)
