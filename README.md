@@ -61,9 +61,17 @@
 
 ---
 
-### GitHub статистика:  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AmalDoskhoev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<div align="center"><img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmalDoskhoev&layout=compact" /></div>
+### GitHub статистика:
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=AmalDoskhoev&show_icons=true&count_private=true&hide_border=true&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmalDoskhoev&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
