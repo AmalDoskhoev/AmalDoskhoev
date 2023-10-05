@@ -46,6 +46,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a> 
 <a href="https://www.atlassian.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="50" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
