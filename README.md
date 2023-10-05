@@ -10,7 +10,7 @@
 Постепенно, я уделяю внимание чтению различной литературы, чтобы быть в "тренде". В свободное время я читаю мангу и борюсь с ленью, хотя, по очкам, она пока выигрывает . 
 </p>
 <p>
-<img hight="700" width="300" alt="JPG" align="center" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/logo.jpg">
+<img hight="700" width="300" alt="JPG" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/logo.jpg">
 </p>
 </div>
 
