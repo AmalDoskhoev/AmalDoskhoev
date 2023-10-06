@@ -80,6 +80,11 @@
 
 ---
 
+### 💻 Связаться со мной:
+[![Telegram Badge](https://img.shields.io/badge/-AmalDoskhoev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Amal_Doskhoev) [![Gmail Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmalDoskhoev) [![Instagram Badge](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_doskhoev_a)
+
+---
+
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=AmalDoskhoev&&style=flat-square" align="center" />
 </div>  
