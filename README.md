@@ -1,4 +1,4 @@
-# <div align="left"> السلام عليكم ,Мир вам👋</div>
+# <div align="left"> السلام عليكم ,Мир вам <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Мир вам' width="35"/></div>
 
 <img alt="JPG" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/intro.jpg">
 
