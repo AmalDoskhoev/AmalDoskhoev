@@ -1,6 +1,6 @@
 # <div align="left"> السلام عليكم ,Мир вам 👋</div>
 
-<img alt="JPG" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/intro.jpg">
+<img alt="Rain" width="100%" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/rain.gif">
 
 ---
 
@@ -11,6 +11,7 @@
   
 Постепенно, я уделяю внимание чтению различной литературы, чтобы быть в "тренде".
 В свободное время я читаю мангу и борюсь с ленью, хотя, по очкам, она пока выигрывает. 
+
 
 - 🏆 Участвовал в международном квесте-хакатон "Код мира"🚀  
   
@@ -82,8 +83,7 @@
 
 ---
 
-<img alt="Rain" width="100%" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/rain.gif">
-<img alt="Rain" width="100%" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/rain1.gif">
+<img alt="JPG" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/intro.jpg">
 
 ---
 
