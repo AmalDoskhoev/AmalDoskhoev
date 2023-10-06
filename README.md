@@ -81,7 +81,7 @@
 ---
 
 ### 💻 Связаться со мной:
-[![Telegram Badge](https://img.shields.io/badge/-AmalDoskhoev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Amal_Doskhoev) [![Gmail Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmalDoskhoev) [![Instagram Badge](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_doskhoev_a)
+[![Telegram Badge](https://img.shields.io/badge/-AmalDoskhoev-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Amal_Doskhoev) [![Gmail Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmalDoskhoev) [![Instagram Badge](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_doskhoev_a)
 
 ---
 
