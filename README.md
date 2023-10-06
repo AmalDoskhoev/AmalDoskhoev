@@ -68,10 +68,11 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=AmalDoskhoev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="webDev's Github stats" />
     </td>
     <td>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalDoskhoev)](https://github.com/anuraghazra/github-readme-stats)
     </td>
   </tr>
 </table>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalDoskhoev)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
