@@ -1,4 +1,4 @@
-# <div align="left"> السلام عليكم ,Мир вам <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Мир вам' width="35"/></div>
+# <div align="left"> السلام عليكم ,Мир вам 👋</div>
 
 <img alt="JPG" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/intro.jpg">
 
@@ -82,6 +82,10 @@
 
 ### 🛰 Связаться со мной:
 [![Telegram Badge](https://img.shields.io/badge/-AmalDoskhoev-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Amal_Doskhoev) [![Github Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmalDoskhoev) [![Instagram Badge](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_doskhoev_a)
+
+---
+
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Мир вам' width="35"/>
 
 ---
 
