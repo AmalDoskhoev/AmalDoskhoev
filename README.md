@@ -82,7 +82,8 @@
 
 ---
 
-<img alt="Rain" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/rain.gif">
+<img alt="Rain" width="100%" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/rain.gif">
+<img alt="Rain" width="100%" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/rain1.gif">
 
 ---
 
