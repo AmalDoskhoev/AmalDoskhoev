@@ -78,10 +78,10 @@
 
 ---
 
-<img alt="Intro" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/intro.gif">
+<img width="100%" alt="Intro" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/intro.gif">
 
 ---
 
 <div align="left">
-<img width="100%" src="https://komarev.com/ghpvc/?username=AmalDoskhoev&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=AmalDoskhoev&&style=flat-square" align="center" />
 </div>  
