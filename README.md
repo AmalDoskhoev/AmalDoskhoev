@@ -83,5 +83,5 @@
 ---
 
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=AmalDoskhoev&&style=flat-square" align="center" />
+<img width="100%" src="https://komarev.com/ghpvc/?username=AmalDoskhoev&&style=flat-square" align="center" />
 </div>  
