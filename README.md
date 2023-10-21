@@ -1,4 +1,4 @@
-# <div align="left">👋 Привет, меня зову Амаль!</div>
+# <div align="left">👋 Привет, меня зовут Амаль!</div>
 
 <img alt="Rain" width="100%" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/rain.gif">
 
