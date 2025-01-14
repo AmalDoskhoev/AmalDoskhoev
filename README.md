@@ -6,6 +6,11 @@
 
 ---
 
+### 🛰 Contact me:
+[![Telegram Badge](https://img.shields.io/badge/-AmalDoskhoev-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Amal_Doskhoev) [![Github Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmalDoskhoev) [![Instagram Badge](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_doskhoev_a)
+
+---
+
 ### 💻 Frontend:
 <div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
@@ -44,7 +49,7 @@
 
 ---
 
-### ⚙ GitHub статистика:
+### ⚙ GitHub:
 <table>
   <tr>
     <td>
@@ -63,12 +68,7 @@
 
 ---
 
-### 🛰 Связаться со мной:
-[![Telegram Badge](https://img.shields.io/badge/-AmalDoskhoev-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Amal_Doskhoev) [![Github Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmalDoskhoev) [![Instagram Badge](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_doskhoev_a)
-
----
-
-<img width="100%" height="300px" alt="Intro" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/intro.gif">
+<img width="100%" alt="Intro" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/intro.gif">
 
 ---
 
