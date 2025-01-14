@@ -1,4 +1,5 @@
 <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=99BCD3&center=true&width=650&lines=Hi+there!+👋;I’m+Amal+Doskhoev;Frontend+Developer+🌟;Bringing+Ideas+to+Life+💻" alt="Typing SVG" /> </a>
+</p>
 
 <img alt="Rain" width="100%" height="300px" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/rain.gif">
 
@@ -9,8 +10,9 @@
 
 ---
 
-### 💻 Frontend:
+
 <div align="center">  
+### 💻 Frontend:
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50"></a>
 <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50"></a>
@@ -29,8 +31,9 @@
 
 ---
 
+
+<div align="center">  
 ### ⚒ Tools: 
-<div align="left">  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a> 
 <a href="https://www.atlassian.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="50" /></a>
@@ -73,4 +76,3 @@
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=AmalDoskhoev&&style=flat-square" align="center" />
 </div>  
-</p>
