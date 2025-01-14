@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=A8C2DFF0&center=true&width=640&lines=Frontend+developer;More+than+three+years+of+experience" alt="Typing SVG" /></a>
 </p>
 
-<img alt="Rain" width="100%" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/rain.gif">
+<img alt="Rain" width="100%" height="300px" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/rain.gif">
 
 ---
 
@@ -68,7 +68,7 @@
 
 ---
 
-<img width="100%" alt="Intro" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/intro.gif">
+<img width="100%" height="300px" alt="Intro" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/intro.gif">
 
 ---
 
