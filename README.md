@@ -1,4 +1,4 @@
-# <div align="left">👋 Привет, меня зовут Амаль!</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A8C2DFF0&center=true&width=540&lines=Frontend+developer;More+than+three+years+of+experience)](https://git.io/typing-svg)
 
 <img alt="Rain" width="100%" src="https://github.com/AmalDoskhoev/AmalDoskhoev/raw/main/assets/rain.gif">
 
